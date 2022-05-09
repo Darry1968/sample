@@ -3,9 +3,10 @@ using namespace std;
 
 int main()
 {
-    int a = 5;
-    cout << a;
-    cout << a + 5;
+    for (int i = 0; i < 10; i++)
+    {
+        cout << "hi";
+    }
 
     return 0;
 }
